@@ -2,6 +2,9 @@
 
 This code do download dataset(Parquet) and upload to postgresql.
 
+Firstly, you should run in postgresql and pg-admin.
+You can follow postgresql-pgadmin files.
+
 docker build -t taxi_ingest:v001 .
 
 URL=""
