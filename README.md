@@ -1,5 +1,3 @@
-# Basic docker example!
-
 This code do download dataset(Parquet) and upload to postgresql.
 
 Firstly, you should run in postgresql and pg-admin.
